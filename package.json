@@ -12,11 +12,7 @@
     "express": "^4.14.0",
     "morgan": "^1.7.0"
   },
-  "repository": {
-  "type": "git",
-  "url": "git://github.com/Ramachandran61/repository.git"
-  },
-  "repository" : {     
+    "repository" : {     
      "type" : "git",
       "url" : "http://github.com/npm/express.git" 
    }
